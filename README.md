@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Evan Dian Fadilah</h1>
+<h1 align="center">Hi there, I'm Evan Dian Fadilah</h1>
 
 <p align="center">
   <b>Informatics Engineering Graduate</b><br>
@@ -48,7 +48,7 @@ I enjoy learning backend development and working with data-driven applications.
 
 ## 📫 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/evan-dian-fadilah-1a2207265/)/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
