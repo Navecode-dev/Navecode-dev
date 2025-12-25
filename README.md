@@ -48,7 +48,7 @@ I enjoy learning backend development and working with data-driven applications.
 
 ## 📫 Connect With Me
 <p>
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/evan-dian-fadilah-1a2207265/)/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/evan-dian-fadilah-1a2207265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Evan%20Dian%20Fadilah-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
